@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/peichman82/node-hello-world/issues"
   },
-  "homepage": "https://github.com/peichman82/node-hello-world#readme"
+  "homepage": "https://github.com/peichman82/node-hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "package.json": "^2.0.1"
+  }
 }
